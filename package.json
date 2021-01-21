@@ -25,7 +25,7 @@
     "@ui-kitten/components": "5.0.0",
     "@ui-kitten/eva-icons": "5.0.0",
     "axios": "^0.19.1",
-    "immer": "^6.0.9",
+    "immer": "^8.0.1",
     "react": "16.11.0",
     "react-content-loader": "^5.0.1",
     "react-native": "0.62.2",
